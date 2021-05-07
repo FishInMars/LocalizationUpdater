@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LocalizationUpdate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LocalizationUpdate_jar</output-path>
+    <root id="archive" name="LocalizationUpdate.jar">
+      <element id="module-output" name="LocalizationUpdate" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
